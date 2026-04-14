@@ -18,7 +18,7 @@ server_id = 1421821013699858526
 allowed_roles = [1425864248277602414]
 REVIEW_CHANNEL = "https://discord.com/channels/1421821013699858526/1421821915584008233"
 LEGIT_CHANNEL = "https://discord.com/channels/1421821013699858526/1421821915584008233"
-TOKEN = 'D'
+TOKEN = 'MTQ5MzQ3NzE5NzQ2ODUzNjg5Mg.GINZBV.3ZaZPYTcPafjbB7TksQEkCS938JyL9DT_4cVhw'
 
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", intents=intents)
