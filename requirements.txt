@@ -1,1 +1,5 @@
 discord.py
+discord
+paramiko
+random
+subprocess
