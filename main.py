@@ -199,4 +199,4 @@ if __name__ == "__main__":
     if confirmation.lower() != "y":
         print("Exiting. Please update your node configuration.")
         exit(1)
-    bot.run(TOKEN)
+    bot.run("")
